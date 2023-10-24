@@ -1,4 +1,4 @@
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 *{
     padding: 0%;
     margin: 0%;
@@ -29,7 +29,7 @@ body{
     background-color: #270606;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    /* box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; */
 } 
 .container .left-side {
     position: relative;
@@ -300,7 +300,6 @@ p{
         grid-template-columns: repeat(1,1fr);
     }
 }
-
 
 
 
