@@ -87,6 +87,7 @@ body{
     font-weight: 600;
     letter-spacing: 1px;
     margin-bottom: 13px;
+    padding-top: 10px;
 }
 .contact-info ul{
     position: absolute;
@@ -285,7 +286,7 @@ p{
     }
   
 }
-@media only screen and (max-width: 450px) 
+@media only screen and (max-width: 480px) 
 {
     .about .box{
         flex-direction: column;
